@@ -42,7 +42,8 @@ Four dashboards were created:
 
    ![image](https://github.com/user-attachments/assets/911821b1-80d3-48f6-9e8f-51368a9115e6)
    ![image](https://github.com/user-attachments/assets/8f32066c-6959-4c9d-8deb-d1db7006e574)
-
+   ![image](https://github.com/user-attachments/assets/6a4273db-3a72-45f4-ad74-d87bf2780627)
+   ![image](https://github.com/user-attachments/assets/915b5d6e-a367-4ed1-aa9a-c5cce5ca7f61)
 
 
 ## Future Improvements
