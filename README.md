@@ -33,6 +33,13 @@ Key metrics were calculated using DAX functions, including:
 `CALCULATE` to create custom filters.
 `DateAdd` and `DATESINPERIOD` for time-based analysis like 90-day rolling profits.
 
+## Sections
+✔️ Exploratory Data Analysis\
+✔️ Visualization\
+✔️ Rate Prediction\
+✔️ Sentiment Analysis of Reviews\
+✔️ Recommendation System
+
 ## Visualizations
 Four dashboards were created:
 1. Sales Overview: KPIs including Total Sales, Profit, and Orders.
